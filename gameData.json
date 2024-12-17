@@ -1,0 +1,22 @@
+[
+  {
+    "imagePath": "D:\\documents\\bot general LmaoV4\\images\\1734305347256.png",
+    "options": [
+      "Un árbol de hoja caduca",
+      "Un arbusto de boj",
+      "Un pequeño roble",
+      "Un árbol de arce joven"
+    ],
+    "correctOption": "Un árbol de hoja caduca"
+  },
+  {
+    "imagePath": "D:\\documents\\bot general LmaoV4\\images\\1734305983752.png",
+    "options": [
+      "Discord Developer Portal",
+      "Sitio web de juegos",
+      "Plataforma de comercio",
+      "Red social general"
+    ],
+    "correctOption": "Discord Developer Portal"
+  }
+]
